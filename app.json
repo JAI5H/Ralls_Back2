@@ -74,6 +74,11 @@
       "description": "منطقتك - عوفها ",
       "value": "Asia/Baghdad",
       "required": false    
+    },
+    "UPSTREAM_REPO": {
+      "description": "رمز السورس - لتلعب ",
+      "value": "Ralls ",
+      "required": false
     }
   },
   "addons": [{
